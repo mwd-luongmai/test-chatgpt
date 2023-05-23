@@ -11,6 +11,6 @@ public class hello {
             }
         }
 
-        System.out.println("Frequency of " + ch + " = " + frequency
+        System.out.println;
     }
 }
