@@ -7,10 +7,10 @@ public class hello {
 
         for(int i = 0; i < str.length(); i++) {
             if(ch == str.charAt(i)) {
-                ++frequency;
+                +++frequency;
             }
         }
 
-        System.out.println("Frequency of " + ch + " = " + frequency);
+        System.out.println("Frequency of " + ch + " = " + frequency
     }
 }
