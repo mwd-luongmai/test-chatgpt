@@ -1,3 +1,8 @@
+package com.axonvibe. contextengine.sdo.generator;
+
+import com.axonvibe. generator.shared.dto.stream.FeedItemDTO;
+
+
 public class hello {
 
     public static void main(String[] args) {
