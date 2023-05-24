@@ -2,6 +2,8 @@ package com.axonvibe. contextengine.sdo.generator;
 
 import com.axonvibe. generator.shared.dto.stream.FeedItemDTO;
 
+import com.axonvibe. generator.shared;
+
 
 public class hello {
 
@@ -16,7 +18,7 @@ public class hello {
             }
         }
 
-        System.out.println
+        System.out.printl
 
     }
 }
